@@ -1,2 +1,1 @@
-# Calculator
-One of the many tries ...
+# Interactive Calculator
